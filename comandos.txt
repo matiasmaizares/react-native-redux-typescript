@@ -1,0 +1,4 @@
+CREAR APP CON REDUX REDUX TOOLKIT
+npx react-native init reduxTutorial --template react-native-template-typescript 
+npm i react-redux @reduxjs/toolkit
+
